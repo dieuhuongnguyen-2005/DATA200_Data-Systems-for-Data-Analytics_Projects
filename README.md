@@ -1,1 +1,1 @@
-# DATA200_Data-Systems-for-Data-Analytics_Projects
+# DATA200 - Data Systems for Data Analytics' Projects
