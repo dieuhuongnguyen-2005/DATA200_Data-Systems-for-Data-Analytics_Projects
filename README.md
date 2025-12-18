@@ -4,10 +4,9 @@
 Analysis of AI/ML job market trends using a dataset of 2,000 job postings. This project explores salary distributions, experience level patterns, and industry variations.
 
 **Course:** Data 200: Data Systems for Data Analytics (Fall 2025)  
-**Author:** Anthea Nguyen
 
 ## Files
-- `ai_job_analysis.ipynb` - Main analysis notebook
+- `PROJECT 1 - AI Job Market.ipynb.ipynb` - Main analysis notebook
 - `ai_job_market.csv` - Dataset (2,000 job postings)
 
 ## Key Findings
